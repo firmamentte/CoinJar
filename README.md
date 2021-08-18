@@ -1,5 +1,5 @@
 Technologies Used
->C#
+>C#</br>
 >Git and Github (Source Control)</br>
 >Visual Studio 2019</br>
 >.Net 5.0 </br>

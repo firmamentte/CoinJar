@@ -9,4 +9,5 @@ Instruction to setup the app. </br>
 1. Fork or Clone the CoinJar app in Visual Studio 2019</br>
 2. Create a database in SQL Server Express 2019 by the name CoinJar.</br>
 3. Run the attached script in the app (CoinJarScript.sql) on CoinJar database created above.</br>
-4. Run the app.</br></br>
+4. If SQL Server Express Instance Name installed is not SQLEXPRESS, please change SQL Server Express Instance Name in the appsettings.json and appsettings.Development.json files
+5. Run the app.</br></br>

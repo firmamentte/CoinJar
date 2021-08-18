@@ -1,7 +1,7 @@
 Technologies Used
 >Git and Github (Source Control)</br>
 >Visual Studio 2019</br>
->.Net 5.0 Framework </br>
+>.Net 5.0 </br>
 >SQL Server Express 2019 </br>
 >Entity FrameworkCore 5.0.9 (Object–relational mapping) </br>
 
